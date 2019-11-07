@@ -1,0 +1,4 @@
+[submodule "humanytek-team/sale_order_show_payments"]
+	path = humanytek-team/sale_order_show_payments
+	url = git@github.com:humanytek-team/sale_order_show_payments.git
+	branch = 12.0
