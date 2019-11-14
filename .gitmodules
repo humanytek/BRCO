@@ -12,3 +12,8 @@
 	path = humanytek-team/account_third_parties
 	url = git@github.com:humanytek-team/account_third_parties.git
 	branch = 12.0
+
+[submodule "humanytek-team/sale_order_add_po"]
+	path = humanytek-team/sale_order_add_po
+	url = git@github.com:humanytek-team/sale_order_add_po.git
+	branch = master
